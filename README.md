@@ -67,8 +67,9 @@ go go on at 34 2.1 -a-2-1 up over over
 List values after calling removeXthNode(2)
 
 go on 34 -a-2-1 over
-```
 
 List values after calling setXthNode(2,one)
 
 go one 34 one over
+
+```
