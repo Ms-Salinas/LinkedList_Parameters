@@ -73,3 +73,7 @@ List values after calling setXthNode(2,one)
 go one 34 one over
 
 ```
+
+### Additional help with link lists
+https://www.youtube.com/watch?v=R9PTBwOzceo
+
