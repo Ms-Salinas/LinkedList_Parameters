@@ -74,6 +74,6 @@ go one 34 one over
 
 ```
 
-### Additional help with link lists
+### Additional help with linked lists
 https://www.youtube.com/watch?v=R9PTBwOzceo
 
